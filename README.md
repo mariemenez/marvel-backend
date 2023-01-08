@@ -21,6 +21,6 @@ GET request
 
 Type of filter : title
 
-### Get all comoics by a character
+### Get all comics by a character
 "/comics/:characterId"<br/>
 GET request
